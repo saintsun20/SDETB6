@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="seleniumhq.selenium.java1" type="repository">
+  <library name="seleniumhq.selenium.java" type="repository">
     <properties maven-id="org.seleniumhq.selenium:selenium-java:4.24.0" />
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/4.24.0/selenium-java-4.24.0.jar!/" />
