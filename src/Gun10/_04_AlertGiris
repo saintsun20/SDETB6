@@ -1,7 +1,7 @@
 Interview da sormuşlar
 -- Alertleri nasıl kontrol edersin.
 
-driver.switchTo().alert() -> alert kutuca geçiş yap (web sayfasından)
+driver.switchTo().alert() -> alert kutusuna geçiş yap (web sayfasından)
 
 komutlar:
 1- accept : OK, TAMAM butonuna basmamızı sağlar

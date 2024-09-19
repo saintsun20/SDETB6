@@ -29,7 +29,7 @@ public class _03_Soru extends BaseDriver {
         aksiyonlar.moveToElement(beyazEsya).build().perform();
         MyFunc.Bekle(2);
 
-        WebElement kombiler = driver.findElement(By.xpath("(//*[@id='Kombiler']//ul/a)[1]"));
+        WebElement kombiler = driver.findElement(By.xpath("(//*[@id='Kombiler']//ul/a)[1]")); // (//ul[@id='Kombiler']//ul/a)[1]
         aksiyonlar.click(kombiler).build().perform();
         MyFunc.Bekle(2);
 
